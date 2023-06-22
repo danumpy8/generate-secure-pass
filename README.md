@@ -1,1 +1,1 @@
-This project is a simple algorith to generate a to generate a secure random password. You can copy the password with a button and you can clean the field, in addition to generating a new password as many times as you want. This is the first version.
+This project is a simple algorith to generate a secure random password. You can copy the password with a button and you can clean the field, in addition to generating a new password as many times as you want. This is the first version.
